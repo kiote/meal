@@ -1,0 +1,4 @@
+meal
+====
+
+coffeescript sample project
